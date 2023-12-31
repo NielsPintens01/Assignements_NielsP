@@ -29,7 +29,7 @@ This repository contains the following scripts:
    Ensure you have Python installed on your system. Install the required dependencies using the following command:
 
    ```bash
-   conda create --name myenv python=3.9
+   conda env create -f environment.yml
    ```
 2. **Usage:**
    
