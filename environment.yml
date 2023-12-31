@@ -1,0 +1,11 @@
+name: assignements_nielsp
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pillow
