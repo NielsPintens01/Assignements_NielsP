@@ -1,6 +1,8 @@
 # Assignements_NielsP
 
-# README for Assignments: production process + image manipulation
+https://github.com/NielsPintens01/Assignements_NielsP.git
+
+# Assignments: production process + image manipulation
 
 ## Overview
 
@@ -13,6 +15,7 @@ This repository contains the following scripts:
 
 - Python 3.9
 - Jupyter
+- os
 - NumPy
 - Pandas
 - Matplotlib
@@ -27,12 +30,11 @@ This repository contains the following scripts:
 
    ```bash
    conda create --name myenv python=3.9
-   conda install jupyter numpy pandas matplotlib scipy pillow
    ```
 2. **Usage:**
    
    Once you have Jupyter installed, you can use the provided Jupyter notebooks for interactive exploration and analysis.
-   To start Jupyter, run the following command in your terminal: jupyter notebook --notebook-dir="C:\Users\niels\Documents\Exercises"
+   To start Jupyter, run the following command in your terminal: jupyter notebook --notebook-dir="C:\Users\niels\Documents\Assignements_NielsP"
    
 3. **Follow Prompts:**
 
